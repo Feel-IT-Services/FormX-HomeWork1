@@ -1,0 +1,1 @@
+export const cubeColors = ['red', 'green', 'blue', 'yellow', 'orange', 'purple'];
